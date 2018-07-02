@@ -1,3 +1,5 @@
+extern crate xatu;
+
 fn main() {
-    println!("Hello, world!");
+    xatu::token::test();
 }
